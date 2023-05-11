@@ -130,3 +130,5 @@ public class JSONObject extends HashMap implements Map, JSONAware, JSONStreamAwa
 		return JSONValue.escape(s);
 	}
 }
+
+
